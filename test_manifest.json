@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/dg8wwnbxhj4-m4lnr4qy",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Blank Manifest"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/dg8wwnbxhj4-m4lnr4qy/canvas/7u2tnwhsj8c-m4lnrpjg",
+      "type": "Canvas",
+      "duration": 201.534694,
+      "label": {
+        "en": [
+          "Victor Silvester"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/dg8wwnbxhj4-m4lnr4qy/canvas/7u2tnwhsj8c-m4lnrpjg/annotation-page/q50l2174b7-m4lnrpjg",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/dg8wwnbxhj4-m4lnr4qy/annotation/7gwn49aunvj-m4lnrpje",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/dg8wwnbxhj4-m4lnr4qy/canvas/7u2tnwhsj8c-m4lnrpjg",
+              "body": {
+                "id": "https://archive.org/download/78_how-am-i-to-know_victor-silvesters-jive-band_wave/how%20am%20i%20to%20know_victor%20silvesters%20jive%20band.mp3",
+                "type": "Sound",
+                "format": "audio/mp4",
+                "duration": 201.534694
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
