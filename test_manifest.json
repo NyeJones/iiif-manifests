@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.org/dg8wwnbxhj4-m4lnr4qy",
+  "id": "https://nyejones.github.io/iiif-manifests/test_manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -9,7 +9,7 @@
   },
   "items": [
     {
-      "id": "https://example.org/dg8wwnbxhj4-m4lnr4qy/canvas/7u2tnwhsj8c-m4lnrpjg",
+      "id": "https://nyejones.github.io/iiif-manifests/test_manifest/canvas-1",
       "type": "Canvas",
       "duration": 201.534694,
       "label": {
@@ -19,14 +19,14 @@
       },
       "items": [
         {
-          "id": "https://example.org/dg8wwnbxhj4-m4lnr4qy/canvas/7u2tnwhsj8c-m4lnrpjg/annotation-page/q50l2174b7-m4lnrpjg",
+          "id": "https://nyejones.github.io/iiif-manifests/test_manifest/canvas/page-1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://example.org/dg8wwnbxhj4-m4lnr4qy/annotation/7gwn49aunvj-m4lnrpje",
+              "id": "https://nyejones.github.io/iiif-manifests/test_manifest/canvas/page/annotation-1",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://example.org/dg8wwnbxhj4-m4lnr4qy/canvas/7u2tnwhsj8c-m4lnrpjg",
+              "target": "https://nyejones.github.io/iiif-manifests/test_manifest/canvas-1",
               "body": {
                 "id": "https://archive.org/download/78_how-am-i-to-know_victor-silvesters-jive-band_wave/how%20am%20i%20to%20know_victor%20silvesters%20jive%20band.mp3",
                 "type": "Sound",
