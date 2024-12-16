@@ -1,0 +1,102 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nyejones.github.io/iiif-manifests/test_manifest.json",
+  "classmark": "Arabe 5754",
+  "origin": "Maghreb",
+  "description": "Neskhi maghr\u00e9bin tr\u00e8s menu, dat\u00e9 de 1192 de l'h\u00e9gire / 1778/1779. - 186 feuillets.",
+  "former-owner": "",
+  "type": "Manifest",
+  "label": "Manuscript",
+  "metadata": [
+        {
+            "label": "Repository",
+            "value": ""
+        },
+        {
+            "label": "Digitised by",
+            "value": "Biblioth\u00e8que nationale de France"
+        },
+        {
+            "label": "Source Images",
+            "value": "https://gallica.bnf.fr/ark:/12148/btv1b52514383t"
+        },
+        {
+            "label": "Metadata Source",
+            "value": "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b52514383t"
+        },
+        {
+            "label": "Shelfmark",
+            "value": "Biblioth\u00e8que nationale de France. D\u00e9partement des Manuscrits. Arabe 5754"
+        },
+        {
+            "label": "Title",
+            "value": "Recueil."
+        },
+        {
+            "label": "Date",
+            "value": "1778-1779"
+        },
+        {
+            "label": "Language",
+            "value": "Arabic"
+        },
+        {
+            "label": "Format",
+            "value": "Neskhi maghr\u00e9bin tr\u00e8s menu, dat\u00e9 de 1192 de l'h\u00e9gire / 1778/1779. - 186 feuillets. - 22 \u00d7 15,5 centim\u00e8tres"
+        },
+        {
+            "label": "Creator",
+            "value": [
+                {
+                    "@value": "Ibn al-\u02bfAww\u0101m al-I\u0161b\u012bl\u012b, Yah\u0323y\u0101 ibn Muh\u0323ammad (....-1185?)"
+                },
+                {
+                    "@value": "Aboul-\u02bfAbbas Ahmad ibn Mahdi al-Ghazzal al-Fasi al-Andalousi"
+                },
+                {
+                    "@value": "Aboul-Q\u0101sim ibn \u02bfAbbas al-Nahrawi"
+                }
+            ]
+        },
+        {
+            "label": "Relation",
+            "value": "Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc32801b"
+        },
+        {
+            "label": "Type",
+            "value": "Manuscrit"
+        }
+    ],
+  "items": [
+    {
+      "id": "https://nyejones.github.io/iiif-manifests/music_manifest/canvas-1",
+      "type": "Canvas",
+      "duration": 162.847347,
+      "label": {
+        "en": [
+          "namethishere"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://nyejones.github.io/iiif-manifests/test_manifest/canvas/page-1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nyejones.github.io/iiif-manifests/test_manifest/canvas/page/annotation-1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nyejones.github.io/iiif-manifests/test_manifest/canvas-1",
+              "body": {
+                "id": "https://nyejones.github.io/iiif-manifests/recordings/namethishere.mp3",
+                "type": "Sound",
+                "format": "audio/mp4",
+                "duration": 162.847347
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
