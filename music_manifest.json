@@ -79,14 +79,14 @@
       },
       "items": [
         {
-          "id": "https://nyejones.github.io/iiif-manifests/test_manifest/canvas/page-1",
+          "id": "https://nyejones.github.io/iiif-manifests/music_manifest/canvas/page-1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://nyejones.github.io/iiif-manifests/test_manifest/canvas/page/annotation-1",
+              "id": "https://nyejones.github.io/iiif-manifests/music_manifest/canvas/page/annotation-1",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://nyejones.github.io/iiif-manifests/test_manifest/canvas-1",
+              "target": "https://nyejones.github.io/iiif-manifests/music_manifest/canvas-1",
               "body": {
                 "id": "https://nyejones.github.io/iiif-manifests/recordings/namethishere.mp3",
                 "type": "Sound",
