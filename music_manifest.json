@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "@id": "https://nyejones.github.io/iiif-manifests/test_manifest.json",
+  "@id": "https://nyejones.github.io/iiif-manifests/music_manifest.json",
   "classmark": "Arabe 5754",
   "origin": "Maghreb",
   "description": "Neskhi maghr\u00e9bin tr\u00e8s menu, dat\u00e9 de 1192 de l'h\u00e9gire / 1778/1779. - 186 feuillets.",
